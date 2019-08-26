@@ -30,7 +30,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "MygM8w4d63YpiTj5vTx69S0VHugsLer3itTVIqzd9n2dsoiKgH6iCXy5bM3sLiTWSds5zx7FMg/zxUTJugh20g==",
+      "sha512": "SBHSomyl5DJTTaa26jir884+eKeoQZhvew39GFdTYXDsKL1wAqsw6a26y4CYTyA8qQ2BEmR0KKsGFjhW8AfjXA==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rgf\\Documents\\Data\\Development\\NgDotNet\\ReactAspNet\\Reactivities\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\rgf\\Documents\\Data\\Development\\DotNetReact\\Reactivities\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\rgf\\Documents\\Data\\Development\\NgDotNet\\ReactAspNet\\Reactivities\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\rgf\\Documents\\Data\\Development\\DotNetReact\\Reactivities\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\rgf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rgf\\Documents\\Data\\Development\\NgDotNet\\ReactAspNet\\Reactivities\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\rgf\\Documents\\Data\\Development\\DotNetReact\\Reactivities\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
