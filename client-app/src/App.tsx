@@ -12,6 +12,7 @@ class App extends Component {
 
     axios.get("http://localhost:5000/api/values")
       .then((response) => {
+
         this.setState({
           values: response.data
         });

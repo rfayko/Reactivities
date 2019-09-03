@@ -25,6 +25,7 @@ namespace API
                 {
                     var ctx = scope.ServiceProvider.GetRequiredService<DataContext>(); 
                     ctx.Database.Migrate();
+                    Seed.SeedData(ctx);
                 }
                 catch (Exception ex)
                 {
