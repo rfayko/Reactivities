@@ -25,8 +25,6 @@ namespace Application.Activities
                 var acts = await ctx.Activities.ToListAsync();
                 return acts;
             }
-
         }
-
     }
 }
